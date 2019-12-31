@@ -1,4 +1,4 @@
-import pygame, time, math, numpy
+import pygame, time, math
 pygame.init()
 
 Width = 500
